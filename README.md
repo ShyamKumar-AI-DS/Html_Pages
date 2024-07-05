@@ -221,18 +221,13 @@
 ```
 
 ## Output
-![HomePage](https://github.com/ShyamKumar-AI-DS/html-ABC-college/assets/93427182/513d4673-628b-4549-80a5-bdd8c9a44aaf)
-<br>
-![Gallery Page](https://github.com/ShyamKumar-AI-DS/html-ABC-college/assets/93427182/eb30233e-bc97-44e1-ac89-ba8f662c765d)
-<br>
-![CS Course Page](https://github.com/ShyamKumar-AI-DS/html-ABC-college/assets/93427182/5e09495a-81a2-4131-98ef-c425b8bbc7fc)
-<br>
-![Admission Page](https://github.com/ShyamKumar-AI-DS/html-ABC-college/assets/93427182/cb03df58-4094-43f5-91fb-c8ebc53fd205)
-<br>
-![Acadamics Page](https://github.com/ShyamKumar-AI-DS/html-ABC-college/assets/93427182/2c4fb583-da4b-434c-b565-fbf05b541851)
-<br>
-![Index Page](https://github.com/ShyamKumar-AI-DS/html-ABC-college/assets/93427182/dc1a8f7b-d255-47eb-9076-f79c514c2622)
-<br>
+![Gallery Page](https://github.com/ShyamKumar-AI-DS/Html_Pages/assets/93427182/daf50959-68f7-4071-b958-d9f32579d3ec)
+![CS Course Page](https://github.com/ShyamKumar-AI-DS/Html_Pages/assets/93427182/dfd363ff-0c94-4291-841e-d4525b0c60a2)
+![Admission Page](https://github.com/ShyamKumar-AI-DS/Html_Pages/assets/93427182/b7e7486b-57f9-4fd2-831f-223f10df1c8c)
+![Acadamics Page](https://github.com/ShyamKumar-AI-DS/Html_Pages/assets/93427182/f323b965-8e46-44ba-bd06-9df4e72d1bcd)
+![Index Page](https://github.com/ShyamKumar-AI-DS/Html_Pages/assets/93427182/ebfdb520-da98-4e1d-8d34-aa7e2b55dbbe)
+![HomePage](https://github.com/ShyamKumar-AI-DS/Html_Pages/assets/93427182/e454996a-6ceb-4ae3-9510-21559ff8d6a1)
+
 
 # 2.Prepare a html file to display the contents as seen in the following image.
 ![image](https://github.com/ShyamKumar-AI-DS/html-ABC-college/assets/93427182/c428f10f-2476-4a4b-9a60-162b10b026ae)
@@ -308,8 +303,7 @@
 </html>
 ```
 ## OUTPUT
-![Q1 Img](https://github.com/ShyamKumar-AI-DS/html-ABC-college/assets/93427182/dcf320fb-048c-4e6c-9a42-287f0a6a0685)
-
+![Q1 Img](https://github.com/ShyamKumar-AI-DS/Html_Pages/assets/93427182/eab51264-b618-4648-88aa-ace285fa0363)
 
 
 
